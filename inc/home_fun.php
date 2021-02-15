@@ -1,10 +1,15 @@
+<style>
+.team-img img {
+	border:3px solid #fff;
+}
+</style>
 <div class="fun-staff staff-1 block-bg-2 sectionWrapper">
 	<div class="container team-boxes">
 					<h3 class="block-head" style="color:#fff;font-weight:bold">MEET OUR BOARD OF DIRECTORS</h3>
 						<div class="cell-3 fx" data-animate="bounceIn" data-animation-delay="600">
 							<div class="team-box">
 								<div class="team-img">
-									<img alt="" src="images/people/tarafder-niger-sultana.png">
+									<img alt="" class="img-thumbnail" src="images/people/tarafder-niger-sultana.png">
 									<h5 style="color:#000;font-weight:bold;text-align:center;">TARAFDER NIGAR SULTANA</h5>
 								</div>
 								<div class="team-details">
