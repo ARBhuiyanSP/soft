@@ -1,6 +1,6 @@
 <div class="fun-staff staff-1 block-bg-2 sectionWrapper">
 	<div class="container team-boxes">
-					<h3 class="block-head" style="color:#fff;font-weight:bold">Meet Our Software Team</h3>
+					<h3 class="block-head" style="color:#fff;font-weight:bold">MEET OUR BOARD OF DIRECTORS</h3>
 						<div class="cell-3 fx" data-animate="bounceIn" data-animation-delay="600">
 							<div class="team-box">
 								<div class="team-img">
